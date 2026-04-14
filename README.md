@@ -10,7 +10,7 @@
   <a href="joshi12hardik@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/Hard12-j" target="_blank">
+  <a href="https://leetcode.com/u/hardik-joshi/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" />
   </a>
 </p>
