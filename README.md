@@ -64,7 +64,7 @@
 
 ---
 
-/*## 🧠 LeetCode Stats
+<!--## 🧠 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/hardik-joshi?theme=dark&ext=contest" />
@@ -77,7 +77,7 @@
 </p>
 
 🔗 https://leetcode.com/u/hardik-joshi/ 
-*/
+-->
 ---
 
 ## 🌱 Currently Learning
