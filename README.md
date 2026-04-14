@@ -1,7 +1,6 @@
 # Hi there, I'm Hardik Joshi 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://linkedin.com/in/hardik-joshi-b5a7392b7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 </p>
 
