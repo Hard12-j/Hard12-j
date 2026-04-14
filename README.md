@@ -20,8 +20,3 @@
 ### 🏆 Competitive Programming & Stats
 - **LeetCode**: Rating 1450
 - **GeeksforGeeks**: 365+ Days Streak
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
-</p>
