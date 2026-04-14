@@ -65,16 +65,18 @@
 ---
 
 ## 🧠 LeetCode Stats
+
 <p align="center">
-  <img src="(https://leetcode.com/u/hardik-joshi/)?theme=dark&font=Baloo%202&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/hardik-joshi?theme=dark&ext=contest" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Rating-1450-orange?logo=leetcode" />
-  <img src="https://img.shields.io/badge/Consistency-365%2B%20Days-blue" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-Active-blue" />
+  <img src="https://img.shields.io/badge/Consistency-Strong-green" />
 </p>
 
-🔗 https://leetcode.com/Hard12-j  
+🔗 https://leetcode.com/u/hardik-joshi/ 
 
 ---
 
