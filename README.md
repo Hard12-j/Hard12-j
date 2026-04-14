@@ -40,38 +40,22 @@
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,js" />
-</p>
+- Java  
+- C++  
 
-### ⚙️ Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+### ⚙️ Frameworks & Technologies
+- Spring Boot  
+- Spring AI  
 
-### 🌐 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🧰 Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+### 🧰 Tools
+- Git & GitHub  
+- Postman  
 
 ### 🧠 Core Concepts
 - Data Structures & Algorithms (DSA)  
 - Object-Oriented Programming (OOP)  
-- Problem Solving & Competitive Programming  
-- Basic System Design & Backend Architecture  
-
----
-
+- Problem Solving & Competitive Programming
+  
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hard12-j&show_icons=true&theme=tokyonight" />
@@ -82,7 +66,7 @@
 
 ## 🧠 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Hard12-j?theme=dark&font=Baloo%202&ext=contest" />
+  <img src="(https://leetcode.com/u/hardik-joshi/)?theme=dark&font=Baloo%202&ext=contest" />
 </p>
 
 <p align="center">
