@@ -1,14 +1,17 @@
 # Hi 👋, I'm Hardik Joshi  
 
 💻 **CSE (AI & ML) Student | Backend Developer | Problem Solver**  
-🚀 Passionate about building real-world applications & scalable backend systems  
+🚀 Passionate about building scalable backend systems & real-world applications  
 
 <p align="left">
   <a href="https://linkedin.com/in/hardik-joshi-b5a7392b7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:hardikjoshi231016@acropolis.in">
+  <a href="joshi12hardik@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Hard12-j" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" />
   </a>
 </p>
 
@@ -30,21 +33,42 @@
 - Provides personalized health insights  
 - Focused on backend logic & system design  
 
-👉 *(Add project link here)*  
+👉 (https://github.com/Hard12-j/SmartFitnessTracker.git)  
 
 ---
 
-## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,nodejs,express,mongodb,git,github,html,css,mysql" />
+## 🛠️ Tech Stack & Skills
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,js" />
 </p>
 
----
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-## 🏆 Competitive Programming
-- 🔥 **LeetCode** – Rating: 1450  
-- ⚡ **GeeksforGeeks** – 365+ Days Streak  
-- 💡 Regularly solving DSA & participating in coding contests  
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧰 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+### 🧠 Core Concepts
+- Data Structures & Algorithms (DSA)  
+- Object-Oriented Programming (OOP)  
+- Problem Solving & Competitive Programming  
+- Basic System Design & Backend Architecture  
 
 ---
 
@@ -56,17 +80,30 @@
 
 ---
 
+## 🧠 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Hard12-j?theme=dark&font=Baloo%202&ext=contest" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-Rating-1450-orange?logo=leetcode" />
+  <img src="https://img.shields.io/badge/Consistency-365%2B%20Days-blue" />
+</p>
+
+🔗 https://leetcode.com/Hard12-j  
+
+---
+
 ## 🌱 Currently Learning
-- Backend Development (Node.js, APIs, System Design)  
-- Advanced DSA & Problem Solving  
+- Advanced Data Structures & Algorithms  
 - AI/ML fundamentals  
 
 ---
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/hardik-joshi-b5a7392b7  
-- 📧 Email: hardikjoshi231016@acropolis.in  
+- 📧 Email: joshi12hardik@gmail.com
 
 ---
 
-⭐ *“Consistent learning + building real-world projects = growth”*
+⭐ *“Consistency + Real Projects = Growth 🚀”*
