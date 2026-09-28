@@ -41,7 +41,8 @@
 
 ### 💻 Programming Languages
 - Java  
-- C++  
+- Python
+- MySQL
 
 ### ⚙️ Frameworks & Technologies
 - Spring Boot  
@@ -49,11 +50,13 @@
 
 ### 🧰 Tools
 - Git & GitHub  
-- Postman  
+- Postman
+- Rest APIs
 
 ### 🧠 Core Concepts
 - Data Structures & Algorithms (DSA)  
-- Object-Oriented Programming (OOP)  
+- Object-Oriented Programming (OOP)
+- DataBase Management System
 - Problem Solving & Competitive Programming
   
 ## 📊 GitHub Stats
@@ -64,7 +67,7 @@
 
 ---
 
-<!--## 🧠 LeetCode Stats
+## 🧠 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/hardik-joshi?theme=dark&ext=contest" />
@@ -77,7 +80,7 @@
 </p>
 
 🔗 https://leetcode.com/u/hardik-joshi/ 
--->
+
 ---
 
 ## 🌱 Currently Learning
