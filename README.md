@@ -73,11 +73,11 @@
   <img src="https://leetcard.jacoblin.cool/hardik-joshi?theme=dark&ext=contest" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Rating-1450-orange?logo=leetcode" />
   <img src="https://img.shields.io/badge/Problem%20Solving-Active-blue" />
   <img src="https://img.shields.io/badge/Consistency-Strong-green" />
-</p>
+</p>-->
 
 🔗 https://leetcode.com/u/hardik-joshi/ 
 
